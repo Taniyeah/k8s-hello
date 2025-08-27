@@ -6,7 +6,7 @@ simple Kubernetes Demo to show
 Prerequites
 - minikube
 - kubectl
-- 
+  
 
 ```bash
 minikube start
